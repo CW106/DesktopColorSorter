@@ -1,0 +1,3 @@
+# 編譯產生的檔案（exe 放在 GitHub Releases）
+*.exe
+*.pdb
